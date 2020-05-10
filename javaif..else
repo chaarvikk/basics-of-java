@@ -1,0 +1,16 @@
+public class javaif..else 
+{
+  public static void main(String[] args) 
+  {
+    int a;
+    int b;
+    if(a <= 18) 
+    {
+      System.out.println("You are a minor");
+    }
+    else 
+    {
+      System.out.println("You are no more minor. You are an young adult");
+    }
+  }
+}
